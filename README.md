@@ -1,1 +1,1 @@
-# Master_thesis_Single_Family_Dynamic_Default_Prediction
+# Master_thesis_Lending_Club_Loans
